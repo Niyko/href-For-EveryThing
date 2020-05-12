@@ -4,10 +4,10 @@
 ## 1) Add the CDN scripts
 `href For EveryThing` needs `jquery` to work, So add the CDN of jquery if not already added. Then add the `href For EveryThing.js` CDN into your project.
 `````Html
-<!------ JQUERY ------>
+<!---- JQUERY ---->
   <script src='https://code.jquery.com/jquery-3.5.1.js'></script>
 
-<!------ HREF FOR EVERYTHING ------>
+<!---- HREF FOR EVERYTHING ---->
   <script src='https://cdn.jsdelivr.net/gh/Niyko/href-For-EveryThing/src/hrefForEveryThing.js'></script>
 `````
 ## 2) Add href to any html element
@@ -23,4 +23,4 @@ Now you can add `href` attribute to any `HTML` element as you want. When that el
 `href For EveryThing` example is available in `codepen`, Check it out : https://codepen.io/niyko/pen/XWmYvPN
 
 # License
-href For EveryThing is licensed under the [GNU GENERAL PUBLIC LICENSE](https://github.com/Niyko/AsyncBee/blob/master/LICENSE).
+Href For EveryThing is licensed under the [MIT License](https://github.com/Niyko/href-For-EveryThing/blob/master/LICENSE).
