@@ -1,4 +1,4 @@
-# href-For-EveryThing
+![href For EveryThing logo](https://i.imgur.com/R9XIoSc.png)
 
 # Get started
 ## 1) Add the CDN scripts
